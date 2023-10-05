@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// To use it in pages or components, import it like this:
+// ---
+// import '../styles/tailwind.css';
+// ---
